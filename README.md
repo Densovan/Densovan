@@ -11,7 +11,6 @@ I am a FullStack Developer.
 
 - 🔭 I’m currently working at @KOOMPI
 - 📫 How to reach me: sarimsovanden@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
 - ⚡ Fun fact: I think I funny:).
 
 #### Technologies I Know
