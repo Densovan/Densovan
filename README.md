@@ -13,7 +13,7 @@ I am a FullStack Developer.
 - 📫 How to reach me: sarimsovanden@gmail.com.
 - ⚡ Fun fact: I think I funny:).
 
-#### Technologies I Know
+#### Programming
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
