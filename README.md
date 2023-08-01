@@ -25,7 +25,7 @@ I am a FullStack Developer.
 
 # 💫 About Me:
 
-🔭 I’m currently working on @DR Tech<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Rust, Solidity and blockchain<br>💬 Ask me about Rust , javascript, nodejs, sollidity <br>⚡ Fun fact I think I am funny :)
+🔭 I’m currently working on @DR Tech as Senior Back End Developer<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Rust, Solidity and blockchain<br>💬 Ask me about Rust , javascript, nodejs, sollidity <br>⚡ Fun fact I think I am funny :)
 
 # 💻 Tech Stack:
 
